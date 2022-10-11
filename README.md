@@ -1,9 +1,4 @@
-![Design and Development](https://github.com/iwanoszet07/iwanoszet07/blob/main/hlogo.png)
-
-
 ## 0x19 C - Stacks, Queues - LIFO, FIFO Project Skills in : 
-
-![Design and Development](https://github.com/iwanoszet07/iwanoszet07/blob/main/iMlogo.gif)
 
 > C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. This projects covers concepts of Stacks, Queues, LIFO, FIFO implementation.
 
