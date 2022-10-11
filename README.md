@@ -6,7 +6,6 @@
 ![Design and Development](https://github.com/iwanoszet07/iwanoszet07/blob/main/iMlogo.gif)
 
 > C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. This projects covers concepts of Stacks, Queues, LIFO, FIFO implementation.
-This was a duo project with partner [Seifu Detso](https://github.com/iwanoszet07)
 
 At the end of this project, We were able to solve these questions:
   
@@ -61,7 +60,3 @@ cd bytecodes
 cat bytecodes/FILENAME.m
 ./monty bytecodes/FILENAME.m
 ```
-
-Authors
-- Prince Andrew Ardayfio
-- Seifu Detso
